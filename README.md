@@ -34,6 +34,6 @@ npm test
  ![img](https://github.com/hanxubin199502/--app/blob/master/src/showsimg/report2.png)
  - 说明：黑名单检测信息提交页 填写信息校验 点击提交订单 生成订单支付 支付功能包括在浏览器中支付和微信支付，调起微信支付功能 在微信完成支付（支付宝支付暂不支持，后台接口不允许后期可能会更新）
  ![img](https://github.com/hanxubin199502/--app/blob/master/src/showsimg/report3.png)
- - 说明：运营商诊断页面和其他的页面相似 同上 只是检测类型不同
  ![img](https://github.com/hanxubin199502/--app/blob/master/src/showsimg/report4.png)
+ - 说明：运营商诊断页面和其他的页面相似 同上 只是检测类型不同
  - 说明：紧急联系人风险检测页面 同上
