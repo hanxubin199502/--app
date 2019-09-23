@@ -30,7 +30,7 @@ npm test
  ![img](https://github.com/hanxubin199502/--app/blob/master/src/showsimg/report.png)
  - 说明：征信-app首页主要展示内容包括黑名单风险检测 运营商诊断 紧急联系人风险检测三个模块，每个模块上主要的操作是一个是检测过次数的展示还要一个就是点击立即检测进入各检测模块的提交表单页
  ![img](https://github.com/hanxubin199502/--app/blob/master/src/showsimg/report1.png)
- - 说明：我的订单页面 主要模块有订单列表 退出登录等功能 订单列表包括黑名单风险检测的报告 运营商诊断的报告以及紧急联系人风险检测的报告
+ - 说明：我的订单页面 订单列表包括黑名单风险检测的报告 运营商诊断的报告以及紧急联系人风险检测的报告
  ![img](https://github.com/hanxubin199502/--app/blob/master/src/showsimg/report2.png)
  - 说明：黑名单检测信息提交页 填写信息校验 点击提交订单 生成订单支付 支付功能包括在浏览器中支付和微信支付，调起微信支付功能 在微信完成支付（支付宝支付暂不支持，后台接口不允许后期可能会更新）
  ![img](https://github.com/hanxubin199502/--app/blob/master/src/showsimg/report3.png)
